@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<figure><embed src="https://wakatime.com/share/@kyluk5/9a945762-5b10-4264-9ee5-130319238ea4.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@kyluk5/9a945762-5b10-4264-9ee5-130319238ea4.svg"></embed>
 
 <!--
 **kyluk5/kyluk5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
