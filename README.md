@@ -1,8 +1,8 @@
-# Hi there, I'm Andrii and I'm a Husband & Developer 👋 
+# Hi there, I'm Andrii and I'm a Husband, father & Developer 👋 
 
 - 🌱 I’m currently learning everything 
 - 🤣 love positive people
-- 😻 preparing to become a father
+- 😻 loving father
 
 ---
 
