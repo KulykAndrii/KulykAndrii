@@ -1,6 +1,5 @@
 # Hi there, I'm Andrii and I'm a Husband, Father & Developer 👋 
 
-- 🌱 I’m currently learning everything 
 - 🤣 love positive people
 - 😻 loving father
 
