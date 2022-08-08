@@ -23,4 +23,4 @@
 
 </br>
 
-<img align="left" alt="wakatime-image" width='500px' src="https://wakatime.com/share/@kyluk5/5f7be494-3ede-44e1-9827-638a0cab6316.svg" />
+<img align="left" alt="wakatime-image" width='500px' src="https://wakatime.com/share/@kyluk5/79fef080-cf24-4ece-9c2f-738c3e964d29.svg" />
