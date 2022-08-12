@@ -1,7 +1,7 @@
 # Hi there, I'm Andrii and I'm a Husband, Father & Developer 👋 
 
 Hello everybody. I am currently working as Front End Developer at BNDigital <img alt='bn-icon' width='26' height='26' src='https://user-images.githubusercontent.com/62095793/184435854-c733f6d3-b505-4021-8c9e-fe75afd8b688.png' />
-. The main framework I work with is React <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>. But if necessary, I'm not afraid of something new. Friendly with github and bitbucket. I know how to set priorities while doing work.
+. The main framework I work with is React <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>. But if necessary, I'm not afraid of something new. Friendly with github <img alt='git-hub-icon' width='50' height='26' src='https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png'/> and bitbucket <img alt='bitbucket-icon' width='26' height='26' src='https://cdn-icons-png.flaticon.com/512/6125/6125001.png'/>. I know how to set priorities while doing work.
 ---
 
 ### Languages and Tools:
