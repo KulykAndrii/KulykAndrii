@@ -78,6 +78,7 @@ Hello everybody. I am currently working as Front End Developer at BNDigital <img
 <img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" style="padding-right:10px;"  />
 
 </br>
+</br>
 
 ---
 
@@ -86,10 +87,23 @@ Hello everybody. I am currently working as Front End Developer at BNDigital <img
 <img align="left" alt="wakatime-image" width='500px' src="https://wakatime.com/share/@kyluk5/2d85c873-5f1f-49db-9754-6df672a19733.svg" />
 
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ---
-
-</br>
 
 ### Codewars Profile Badges:
 
@@ -98,5 +112,3 @@ Hello everybody. I am currently working as Front End Developer at BNDigital <img
 <img alt="badges-large" src="https://www.codewars.com/users/KulykAndrii/badges/small" />
 
 <img alt="badges-large" src="https://www.codewars.com/users/KulykAndrii/badges/micro" />
-
-</br>
