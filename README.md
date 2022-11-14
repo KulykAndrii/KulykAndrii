@@ -84,3 +84,13 @@ Hello everybody. I am currently working as Front End Developer at BNDigital <img
 </br>
 
 <img align="left" alt="wakatime-image" width='500px' src="https://wakatime.com/share/@kyluk5/2d85c873-5f1f-49db-9754-6df672a19733.svg" />
+
+### Codewars Profile Badges:
+
+<img alt="badges-large" src="https://www.codewars.com/users/KulykAndrii/badges/large" />
+
+<img alt="badges-large" src="https://www.codewars.com/users/KulykAndrii/badges/small" />
+
+<img alt="badges-large" src="https://www.codewars.com/users/KulykAndrii/badges/micro" />
+
+</br>
