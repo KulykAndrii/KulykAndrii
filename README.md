@@ -84,7 +84,7 @@ I am currently working as Front End Developer at BNDigital <img alt='bn-icon' wi
 
 </br>
 
-<img align="left" alt="wakatime-image" width='500px' src="https://wakatime.com/share/@kyluk5/2d85c873-5f1f-49db-9754-6df672a19733.svg" />
+<img align="left" alt="wakatime-image" width='500px' src="https://wakatime.com/share/@kyluk5/93adc52c-d890-4583-bccd-dce8c1107b66.svg" />
 
 </br>
 </br>
