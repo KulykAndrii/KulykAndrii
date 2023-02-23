@@ -104,13 +104,3 @@ I am currently working as Front End Developer at BNDigital <img alt='bn-icon' wi
 </br>
 </br>
 </br>
-
----
-
-### Codewars Profile Badges:
-
-<img alt="badges-large" src="https://www.codewars.com/users/KulykAndrii/badges/large" />
-
-<img alt="badges-large" src="https://www.codewars.com/users/KulykAndrii/badges/small" />
-
-<img alt="badges-large" src="https://www.codewars.com/users/KulykAndrii/badges/micro" />
