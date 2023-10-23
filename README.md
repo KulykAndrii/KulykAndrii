@@ -11,9 +11,6 @@
 |                                                                                                                                                       |                                                                                                                                                             |                                                                                                                                                             |                                                                                                                                                                            |                                                                                                                                                                            |                                                                                                                                                          |                                                                                                                                                                                                                            |                                                                                                                                  | <img align="left" alt="redux" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" style="padding-right:10px;"  />               |                                                                                                                                                                  |
 
 </br>
-
-<img align="left" alt="wakatime-image" width='500px' src="https://wakatime.com/share/@kyluk5/93adc52c-d890-4583-bccd-dce8c1107b66.svg" />
-
 </br>
 </br>
 </br>
