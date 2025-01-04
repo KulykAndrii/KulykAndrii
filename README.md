@@ -27,9 +27,9 @@ I'm a JavaScript developer passionate about building engaging web applications, 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KulykAndrii_username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KulykAndrii&show_icons=true&theme=tokyonight)
 
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=KulykAndrii_username&layout=compact&theme=tokyonight)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=KulykAndrii&layout=compact&theme=tokyonight)
 
 ---
 
