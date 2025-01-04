@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Andrii
 
 [![GitHub followers](https://img.shields.io/github/followers/your_username?style=social)](https://github.com/KulykAndrii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%86%92-blue)](https://www.linkedin.com/in/kulyk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%86%92-blue)](https://www.linkedin.com/in/kyluk)
 
 ---
 
@@ -27,15 +27,15 @@ I'm a JavaScript developer passionate about building engaging web applications, 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KulykAndrii_username&show_icons=true&theme=tokyonight)
 
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=KulykAndrii_username&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔗 Where to Find Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kulyk)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kyluk)
 - 📧 Email: kyluk5@gmail.com
 
 ---
