@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Andrii
 
-[![GitHub followers](https://img.shields.io/github/followers/your_username?style=social)](https://github.com/KulykAndrii)
+[![GitHub followers](https://img.shields.io/github/followers/KulykAndrii?style=social)](https://github.com/KulykAndrii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%86%92-blue)](https://www.linkedin.com/in/kyluk)
 
 ---
